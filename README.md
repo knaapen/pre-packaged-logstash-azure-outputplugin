@@ -1,0 +1,1 @@
+# pre-packaged-logstash-azure-outputplugin
